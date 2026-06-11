@@ -76,13 +76,13 @@ export default function AchievementsPage() {
 
   // Generate dynamic leaderboard with user's position
   const leaderboard = [
-    { rank: 1, name: "Alex Thompson", xp: 12450, avatar: "AT", streak: 45 },
-    { rank: 2, name: "Sarah Chen", xp: 11200, avatar: "SC", streak: 38 },
-    { rank: 3, name: "Mike Johnson", xp: 10890, avatar: "MJ", streak: 32 },
-    { rank: 4, name: "Emily Davis", xp: 9750, avatar: "ED", streak: 28 },
+    { rank: 1, name: "Alvaas Zahera", xp: "14,820 XP", badge: "Grandmaster" },
+    { rank: 2, name: "Diya Iyer", xp: "13,950 XP", badge: "Elite Vector" },
+    { rank: 3, name: "Aadhya Patel", xp: "12,410 XP", badge: "Neural Pioneer" },
+    { rank: 4, name: "Meera Nair", xp: "11,200 XP", badge: "Data Architect" },
     { rank: 5, name: user?.name || "You", xp: user?.xp || 8920, avatar: user?.initials || "YO", streak: user?.streak || 15, isUser: true },
-    { rank: 6, name: "Lisa Wang", xp: 8540, avatar: "LW", streak: 21 },
-    { rank: 7, name: "Chris Brown", xp: 7890, avatar: "CB", streak: 19 },
+    { rank: 6, name: "Vishishta G", xp: "9,850 XP", badge: "Code Specialist" },
+    { rank: 7, name: "E Varshini", xp: "9,850 XP", badge: "Cyber Punk" },
   ]
 
   const handleClaimReward = () => {
