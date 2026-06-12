@@ -227,7 +227,7 @@ These optimizations helped transform PATHLUME AI into a cleaner and more scalabl
 
 
 # 📸 PROJECT SHOWCASE 
-https://v0-pathlume-edtech-app.vercel.app/
+https://pathlume.onrender.com
 
 # 🌌GITHUB REPOSITORY 
 https://github.com/alveerafathima09-62/PATHLUME---AI-
