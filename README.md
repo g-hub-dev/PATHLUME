@@ -172,22 +172,6 @@ was tested for multiple edge cases and unexpected user interactions to ensure pl
 These implementations improved overall user experience and application reliability.
 
 
-# 🔄 REFACTORING & OPTIMIZATION
-
-Continuous refactoring was performed throughout development to improve scalability, readability, and maintainability.
-
-- 💡Improvements Included
-- 💡Modular React component structure
-- 💡Cleaner folder organization
-- 💡Reusable UI components
-- 💡Reduced duplicate code
-- 💡Improved responsive layouts
-- 💡Faster rendering performance
-- 💡Enhanced frontend consistency
-
-These optimizations helped transform PATHLUME AI into a cleaner and more scalable platform.
-
-
 # 📈 FUTURE ENHANCEMENTS
 
 🚀 AI Mentor Chatbot
@@ -210,21 +194,5 @@ https://pathlume.onrender.com
 # 🌌GITHUB REPOSITORY 
 https://github.com/alveerafathima09-62/PATHLUME---AI-
 
-# 💡 Vision Statement
-✨ “We’re not building another edtech platform.
-We’re building the GPS for learning.” ✨
 
-# 🏆 Conclusion
-
-PATHLUME AI combines artificial intelligence, structured education, and modern UI/UX principles to create a smarter and more personalized learning experience.
-
-The platform aims to reduce confusion, improve consistency, and guide learners toward mastery through AI-powered educational pathways.
-
-By integrating scalable frontend architecture with intelligent recommendation systems, PATHLUME AI represents the future of modern education technology.
-
-<div align="center">
-
-
-## ⭐ Made with passion by Team Cipher ⭐
-
-</div>
+## ⭐ Made with passion by Team Cipher 
