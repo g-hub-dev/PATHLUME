@@ -2,37 +2,15 @@
 # Pathlume
 ### Illuminate Your Way to Mastery
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-## 🌌 AI-Powered Personalized Learning Platform 
-designed to simplify the modern learning experience through intelligent and structured learning pathways.
-
-In today’s digital world, students often struggle with information overload, random tutorials, and unstructured educational content. Many learners spend more time searching for resources than actually learning. PATHLUME AI solves this problem by providing AI-generated learning roadmaps, smart recommendations, and personalized educational guidance tailored to the learner’s goals and skill level.
-
-The platform transforms scattered learning into a focused journey toward mastery.
-
-Pathlume is a cutting-edge, adaptive e-learning ecosystem designed to dismantle the rigid structures of traditional education. By analyzing real-time user performance and behavior, Pathlume dynamically crafts **personalized learning paths**, deploys **adaptive assessments**, and integrates **gamified feedback loops** to ensure optimized skill mastery.
+Pathlume AI is an adaptive, AI-powered e-learning platform designed to eliminate information overload and structure the modern learning experience. By analyzing user interaction, the platform dynamically generates personalized learning roadmaps, smart topic recommendations, and interactive assessments.
 
 ---
 
-# 🌍 UN SDG GLOBAL IMPACT ALIGNMENT
+## 🌍 UN SDG Global Impact Alignment
+* **SDG 4 – Quality Education:** Promotes accessible, organized, and personalized learning by helping users navigate structured educational pathways.
+* **SDG 9 – Industry, Innovation & Infrastructure:** Integrates AI innovation into educational technology to build scalable learning systems.
 
-## 🎯 SDG 4 – Quality Education
-
-
-PATHLUME AI promotes accessible, organized, and personalized education by helping learners discover structured pathways and high-quality learning resources.
-
-## 🚀 SDG 9 – Industry, Innovation & Infrastructure
-
-The platform integrates AI-powered innovation into education technology to create smarter and more scalable learning systems.
-
-
-<p align="center">
-</p>
-<img width="861" height="940" alt="image" src="https://github.com/user-attachments/assets/9454be01-13f2-4ba7-adc4-a5e1dfc5cadb" />
+---
 
 
 ## 🚀 Key Features & Interface
@@ -222,8 +200,8 @@ These optimizations helped transform PATHLUME AI into a cleaner and more scalabl
 # 👨‍💻 TEAM INFORMATION
 | Team Member | Role |
 |---|---|
+| G. Srividya | Full-Stack AI Developer |
 | Alveera Fathima | Frontend Development & Documentation |
-| G. Sri Vidya | UI/UX & Development |
 
 
 # 📸 PROJECT SHOWCASE 
