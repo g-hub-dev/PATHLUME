@@ -184,8 +184,12 @@ These implementations improved overall user experience and application reliabili
 # 👨‍💻 TEAM INFORMATION
 | Team Member | Role |
 |---|---|
-| G. Srividya | Full-Stack AI Developer |
-| Alveera Fathima | Frontend Development & Documentation |
+| Alveera Fathima | Full-Stack AI Developer |
+| B.Aakshitha | Frontend Development|
+| Alvaas Zahera | Frontend Development|
+| B.Yesaswini| PPT |
+| E.Varshini | PPT |
+| Kashifa | Documentation |
 
 
 # 📸 PROJECT SHOWCASE 
@@ -195,4 +199,4 @@ https://pathlume.onrender.com
 https://github.com/alveerafathima09-62/PATHLUME---AI-
 
 
-## ⭐ Made with passion by Team Cipher 
+## ⭐ Made with passion by Team X-Ception
