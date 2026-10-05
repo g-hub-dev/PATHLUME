@@ -6,12 +6,6 @@ Pathlume AI is an adaptive, AI-powered e-learning platform designed to eliminate
 
 ---
 
-## 🌍 UN SDG Global Impact Alignment
-* **SDG 4 – Quality Education:** Promotes accessible, organized, and personalized learning by helping users navigate structured educational pathways.
-* **SDG 9 – Industry, Innovation & Infrastructure:** Integrates AI innovation into educational technology to build scalable learning systems.
-
----
-
 
 ## 🚀 Key Features & Interface
 
@@ -184,19 +178,11 @@ These implementations improved overall user experience and application reliabili
 # 👨‍💻 TEAM INFORMATION
 | Team Member | Role |
 |---|---|
-| Alveera Fathima | Full-Stack AI Developer |
-| B.Aakshitha | Frontend Development|
-| Alvaas Zahera | Frontend Development|
-| B.Yesaswini| PPT |
-| E.Varshini | PPT |
-| Kashifa | Documentation |
+| G Srividya | Backend Systems and AI Engineer |
+| Alveera Fathima | UI/UX and Frontend Engineer | |
 
 
 # 📸 PROJECT SHOWCASE 
 https://pathlume.onrender.com
 
-# 🌌GITHUB REPOSITORY 
-https://github.com/alveerafathima09-62/PATHLUME---AI-
-
-
-## ⭐ Made with passion by Team X-Ception
+## Team CYPHER
